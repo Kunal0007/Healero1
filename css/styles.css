@@ -106,8 +106,7 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 #introduction {
-  background-image: url("https://media.istockphoto.com/vectors/simple-abstract-green-and-yellow-color-background-vector-id1206564525?k=6&m=1206564525&s=612x612&w=0&h=xOe8MjepbnsoJ3PAZO1CFKbSYcG3h8coUS6nMgoC07g=");
-  
+  background: linear-gradient(147deg, #7be495 50%, #329d9c);
 }
 
 .intro-image {
