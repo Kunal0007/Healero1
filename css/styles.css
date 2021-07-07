@@ -295,12 +295,9 @@ font-family: 'Ubuntu', sans-serif;
 }
 
 @media (min-width: 425px) {
-  /* h1 {
-    font-size: 2.7rem;
-  } */
 
   .about {
-    height: 100vh;
+    /* height: 100vh; */
     background: linear-gradient(147deg, #c7fc8b, #56c596);
   }
 
