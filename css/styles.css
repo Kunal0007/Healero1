@@ -28,7 +28,8 @@ p {
 }
 
 #title {
-  background-image: url("https://www.mealeasy.com/html-pages/Landing-Pages/Meal-Kits/images/green-bg-bgb.png");
+/*   background-image: url("https://www.mealeasy.com/html-pages/Landing-Pages/Meal-Kits/images/green-bg-bgb.png"); */
+  background: linear-gradient(147deg, #c7fc8b, #56c596);
   background-repeat: no-repeat;
   height: fit-content;
   color: black;
